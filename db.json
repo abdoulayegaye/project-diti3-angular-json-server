@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "nom": "DIALLO",
+      "prenom": "Mariama",
+      "salaire": 1280000
+    },
+    {
+      "id": 3,
+      "nom": "HAMANE ADJI",
+      "prenom": "Souleymane",
+      "salaire": 120000
+    },
+    {
+      "id": 12,
+      "nom": "MBENGUE",
+      "prenom": "Yankhoba qui ne fuit pas",
+      "salaire": 8000000
+    },
+    {
+      "id": 13,
+      "nom": "diouf",
+      "prenom": "Yankhoba",
+      "salaire": 800000
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "nom": "RH"
+    },
+    {
+      "id": 1,
+      "nom": "MARKETING"
+    }
+  ]
+}
